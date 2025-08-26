@@ -1,0 +1,35 @@
+*{
+    background-color: #b8b5b5c4;
+    margin: 10px;
+    font-stretch: semi-condensed;
+    text-align: justify;
+    
+}
+
+body{
+
+border-top: 200px solid black;
+border-right: 200px solid black;
+border-bottom: 200px solid black;
+border-left: 200px solid black;
+}
+
+h1{
+    text-align: center;
+}
+ 
+h2{
+  text-decoration: underline;
+}
+
+a{
+    color: blue;
+}
+h4{
+    font-weight: normal;
+}
+
+
+h5{
+    text-align: center;
+}
